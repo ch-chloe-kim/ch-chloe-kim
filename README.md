@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Chaehyeon Kim 👋
 
-<!--
-**ch-chloe-kim/ch-chloe-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Hanshin University (Korea), working toward a career in **data engineering**.
 
-Here are some ideas to get you started:
+- 🔍 Interested in: SQL, data pipelines, open-source tools
+- 🌏 Goal: data engineering roles in Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- 🕵️ [SQL Murder Mystery (KR fork)](https://github.com/ch-chloe-kim/sql-mysteries) — Localized a browser SQL game's grading UI & SQLite trigger; extracted the trigger into versioned SQL for reviewable diffs. [Live demo](https://ch-chloe-kim.github.io/sql-mysteries/)
+
+## Tech
+
+SQL · SQLite · Python · JavaScript · Git · GitHub Pages
